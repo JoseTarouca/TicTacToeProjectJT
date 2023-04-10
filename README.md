@@ -1,8 +1,8 @@
 
-# Jogo do Galo
+# TicTacToe
 
-Projeto realizado no âmbito da disciplina de Desenvolvimento para Dispositivos Móveis
-III do Curso Programação para Dispositivos Móveis.
+Re-Post de um trabalho realizado no âmbito da disciplina de Desenvolvimento para Dispositivos Móveis
+III do CTeSP de Desenvolvimento para Dispositivos Móveis.
 
 
 ## Como correr
